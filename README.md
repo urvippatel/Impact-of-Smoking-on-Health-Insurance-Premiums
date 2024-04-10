@@ -34,6 +34,9 @@ The dataset encompasses:
 - Regional smoking trends provide a basis for localized insurance pricing strategies.
 - Recommendations are provided for insurance companies to incorporate smoking status into their pricing models effectively.
 
+## Interactive Dashboards
+Explore the interactive Tableau visualizations of our findings here. https://public.tableau.com/views/ImpactofSmokingoninsurancepremiums/FINALSTORY?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 ## 💡 Why Star This Project?
 - Demonstrates the use of data science in solving real-world industry problems.
 - Offers valuable insights into the impact of lifestyle choices on insurance costs.
