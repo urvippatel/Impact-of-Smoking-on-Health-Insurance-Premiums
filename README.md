@@ -22,11 +22,12 @@ The dataset encompasses:
 - **SciPy**: For conducting statistical tests.
 - **Tableau**: For interactive dashboards and visual storytelling.
 
-## 📁 Project Structure
-- `data/`: Dataset directory.
-- `scripts/`: Python scripts for analysis.
-- `visualizations/`: Tableau dashboard files and additional visualization outputs.
-- `README.md`: Project overview and instructions.
+### Project Lifecycle Techniques
+- **Data Preparation**: Included missing value imputation, data type conversions, outlier treatment, and normalization to ensure clean, analysis-ready data.
+- **Exploratory Analysis**: Utilized descriptive statistics, correlation analysis, and visual exploration to uncover initial insights and inform feature selection.
+- **Feature Engineering**: Involved creating, transforming, and selecting features to enhance model accuracy and interpretability.
+- **Predictive Modeling**: Employed regression and classification techniques, evaluated through cross-validation and performance metrics to ensure model robustness.
+- **Visualization and Storytelling**: Leveraged Tableau for interactive dashboards and employed data storytelling to present findings effectively.
 
 ## 🔍 Key Insights
 - Smoking status is a significant determinant of insurance premiums, independent of BMI and age.
